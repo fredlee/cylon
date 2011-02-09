@@ -8,5 +8,11 @@ Feature: Creating a Template
     Given I am on the create template page
     When I fill in "Name" with "New Customer"
     And I fill in "Body" with "Welcome to Enova Financial!"
+    And I press "Create Template"
+    Then I should see "Template created"
+
+  Scenario: big actions
+    Given I am on the create template page
+    When I do something awesome 
     Then I should see "Template created"
 
