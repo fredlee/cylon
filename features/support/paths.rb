@@ -12,6 +12,8 @@ module NavigationHelpers
       '/'
     when "the create template page"
       new_template_path
+    when "the edit template page"
+      edit_template_path(@template)
 
     # Add more mappings here.
     # Here is an example that pulls values out of the Regexp:
