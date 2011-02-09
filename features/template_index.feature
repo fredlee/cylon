@@ -1,8 +1,8 @@
 Feature: List the Templates
 
-  As a user
-  I want to see all the templates
-  So that I can admire them
+  As a
+  I want
+  So that
 
   Scenario: User can see all the templates
     Given

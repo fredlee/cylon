@@ -9,3 +9,4 @@ Feature: Creating a Template
     When I fill in "Name" with "New Customer"
     And I fill in "Body" with "Welcome to Enova Financial!"
     Then I should see "Template created"
+

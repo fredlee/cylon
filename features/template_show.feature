@@ -1,8 +1,8 @@
 Feature: Show a template
 
-  As a user
-  I want to see a template
-  So that I can review it
+  As a
+  I want
+  So that
 
   Scenario: User can see a template
     Given

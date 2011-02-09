@@ -1,8 +1,8 @@
 Feature: Edit a template
 
-  As a user
-  I want to edit a template
-  So that I can make corrections
+  As a
+  I want
+  So that
 
   Scenario: User can edit a template
     Given
